@@ -20,19 +20,14 @@ I care about clarity, good code structure, and continuous learning.
 
 <br clear="right"/>
 ---
+---
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
-  
-<!-- ### ☕ Focused Work
-
-I enjoy working in calm, distraction-free environments —  
-thinking through problems carefully and building things step by step.
-
-Most of my time goes into:
-- Writing clean, readable code
-- Improving small details
-- Learning by building real things
-
-<br clear="left"/> -->
+<div align="center">
+  <img
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+    width="70%"
+    alt="Focused work desk illustration"
+  />
+</div>
 
 ---
