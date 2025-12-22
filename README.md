@@ -23,7 +23,7 @@ I care about clarity, good code structure, and continuous learning.
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="55%"
+  width="50%"
   align="left"
 />
 
