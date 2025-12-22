@@ -19,7 +19,6 @@ I care about clarity, good code structure, and continuous learning.
 - 🤝 Open to collaborating on open-source projects  
 
 <br clear="right"/>
----
 
 <div align="center">
   <img
