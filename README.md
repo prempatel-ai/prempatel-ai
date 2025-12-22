@@ -20,12 +20,11 @@ I care about clarity, good code structure, and continuous learning.
 
 <br clear="right"/>
 ---
----
 
 <div align="center">
   <img
     src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-    width="70%"
+    width="50%"
     alt="Focused work desk illustration"
   />
 </div>
