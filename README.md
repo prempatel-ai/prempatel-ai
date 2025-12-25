@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Hi, I'm Kaustav</h1>
-    <h3>Full Stack Developer | Data Science Enthusiast | Tech Blogger</h3>
+    <h1>Hi, I'm Prem Patel</h1>
+    <h3> Artificial intelligence Enthusiast | Tech Blogger</h3>
     <br/>
     <p>
         <i>Computer Science Undergraduate & Aspiring Software Developer</i>
@@ -19,7 +19,7 @@
                     <li>💡 <b>Curious about:</b> Blockchain & Crypto</li>
                     <li>📖 <b>Learning:</b> Flask</li>
                     <li>❄️ <b>Collaborating on:</b> Open Source Projects</li>
-                    <li>📫 <b>Contact:</b> gkaustav57@gmail.com</li>
+                    <li>📫 <b>Contact:</b> prempatel7740@gmail.com</li>
                 </ul>
             </td>
         </tr>
@@ -93,14 +93,11 @@
 
 <div align="center">
     <h2>Connect</h2>
-    <a href="https://www.linkedin.com/in/kgan31/">
+    <a href="https://www.linkedin.com/in/prem-ai/">
         <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"/>
     </a>
-    <a href="mailto:gkaustav57@gmail.com">
+    <a href="mailto:prempatel7740@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=black" alt="Gmail"/>
-    </a>
-    <a href="https://discordapp.com/users/885073575839670302">
-        <img src="https://img.shields.io/badge/Discord-white?style=flat-square&logo=discord&logoColor=black" alt="Discord"/>
     </a>
 </div>
 
