@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=ML+Complete.+Deep+Learning+Active.+LLMs+on+the+horizon.;Building+intelligent+systems+from+first+principles.;3rd+Year+B.Tech+Computer+Engineering+%E2%80%94+Gujarat%2C+India.;Turning+raw+sensor+data+into+insight+since+day+one.)](https://github.com/prempatel-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=800&lines=3rd+Year+B.Tech+Computer+Engineering+%E2%80%94+Gujarat%2C+India.;Obsessed+with+learning.+Making+machines+smarter.+Exploring+AI+%2F+ML.;"The+best+way+to+predict+the+future+is+to+invent+it."+%E2%80%94+Alan+Kay;"Any+sufficiently+advanced+technology+is+indistinguishable+from+magic."+%E2%80%94+Arthur+C.+Clarke;"Logic+will+get+you+from+A+to+Z.+Imagination+will+get+you+everywhere."+%E2%80%94+Einstein;"We+cannot+solve+problems+with+the+same+thinking+we+used+to+create+them."+%E2%80%94+Einstein;"The+only+way+to+do+great+work+is+to+love+what+you+do."+%E2%80%94+Steve+Jobs;"Move+fast+and+break+things."+%E2%80%94+Mark+Zuckerberg;"Make+it+work%2C+make+it+right%2C+make+it+fast."+%E2%80%94+Kent+Beck;"If+you+can't+explain+it+simply%2C+you+don't+understand+it+well+enough."+%E2%80%94+Feynman;"The+more+I+learn%2C+the+more+I+realize+how+much+I+don't+know."+%E2%80%94+Einstein;"Imagination+is+more+important+than+knowledge."+%E2%80%94+Albert+Einstein;"Stay+hungry.+Stay+foolish."+%E2%80%94+Steve+Jobs;"First%2C+solve+the+problem.+Then%2C+write+the+code."+%E2%80%94+John+Johnson;"It+always+seems+impossible+until+it's+done."+%E2%80%94+Nelson+Mandela;"The+secret+of+getting+ahead+is+getting+started."+%E2%80%94+Mark+Twain;"Fall+seven+times%2C+stand+up+eight."+%E2%80%94+Japanese+Proverb)](https://github.com/prempatel-ai)
 
 <br/>
 
@@ -96,7 +96,7 @@ class PremPatel:
 | | |
 |---|---|
 | Projects Shipped | **5** |
-| Models Built | **CNN · ANN · SVM** |
+| Models Built | **CNN · ANN · RNN · GAN · SVM** |
 | Current Focus | **Computer Vision** |
 | Open To | **Collaborations** |
 
@@ -307,7 +307,7 @@ NLP foundations, Transformer architecture, BERT fine-tuning, and eventually buil
 
 <div align="center">
 
-### `"Don't just use the model. Understand it."`
+### `"The best way to predict the future is to invent it." — Alan Kay`
 
 <sub>B.Tech Computer Engineering, Year 3 &nbsp;&nbsp;·&nbsp;&nbsp; Gujarat, India &nbsp;&nbsp;·&nbsp;&nbsp; Open to collaborations and interesting problems</sub>
 
