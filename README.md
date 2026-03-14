@@ -41,7 +41,7 @@ class PremPatel:
     linkedin = "linkedin.com/in/prem-patel-ai"
 
     # Active directives
-    active   = ["Deep Learning", "CNNs", "Computer Vision"]
+    active   = ["Deep Learning", "CNN","RNN","GAN", "Computer Vision"]
     next     = ["NLP", "Transformers", "LLMs", "RAG Systems"]
 
     # Shipped
@@ -96,7 +96,7 @@ class PremPatel:
 | | |
 |---|---|
 | Projects Shipped | **5** |
-| Models Built | **CNN · ANN · RNN · GAN · SVM** |
+| Models Built | **CNN · ANN · SVM** |
 | Current Focus | **Computer Vision** |
 | Open To | **Collaborations** |
 
