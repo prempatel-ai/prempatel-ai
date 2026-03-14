@@ -22,13 +22,17 @@
 
 ### About
 
-<img align="right" width="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eDNzbHZsanYzbXlhYXA3OWh5aXBoN21oNmxjMmJva2NhZWQwbSZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```python
-# ─────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────
 #  PREM PATEL  //  Computer Engineer & AI Builder
-#  Gujarat, India  //  B.Tech CE Year 3 of 4
-# ─────────────────────────────────────────────────────────
+#  Gujarat, India  //  B.Tech CE — Year 3 of 4
+# ──────────────────────────────────────────────────────
 
 class PremPatel:
 
@@ -36,27 +40,23 @@ class PremPatel:
     location = "Gujarat, India"
     linkedin = "linkedin.com/in/prem-patel-ai"
 
-    # What I am working on right now
+    # Active directives
     active   = ["Deep Learning", "CNNs", "Computer Vision"]
-
-    # Where I am headed
     next     = ["NLP", "Transformers", "LLMs", "RAG Systems"]
 
-    # What I have shipped
+    # Shipped
     shipped  = [
-        "GPS + IMU Sensor Fusion   — Kalman Filter + LSTM",
-        "Human Activity Recognition — CNN-LSTM + Attention",
-        "Perceptron from Scratch   — Pure Math",
-        "MNIST Digit Classifier    — CNN",
-        "Fashion Item Classifier   — CNN + OpenCV",
+        "GPS + IMU Sensor Fusion    — Kalman Filter",
+        "Human Activity Recognition — Scikit-learn",
+        "Perceptron from Scratch    — Pure Math",
+        "MNIST Digit Classifier     — CNN",
+        "Fashion Item Classifier    — CNN + OpenCV",
     ]
 
-    # Currently in the lab
     building = "Face Mask Detector — CNN + real-time OpenCV"
 
-    # The one thing that defines how I learn
     approach = """
-        I built a perceptron from raw mathematics
+        Built a perceptron from raw mathematics
         before writing a single line of framework code.
         I don't use tools I don't understand.
     """
@@ -64,20 +64,45 @@ class PremPatel:
     def principle(self) -> str:
         return "Don't just use the model. Understand it."
 
-# ─────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eDNzbHZsanYzbXlhYXA3OWh5aXBoN21oNmxjMmJva2NhZWQwbSZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+<br/><br/>
+
+**Currently building**
+<br/>
+![](https://img.shields.io/badge/Face%20Mask%20Detector-In%20Progress-6366f1?style=flat-square&labelColor=0d0d0d)
 
 <br/>
 
-<div align="center">
+**Learning path**
+<br/>
+![](https://img.shields.io/badge/ML-Complete-10b981?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/Deep%20Learning-Active-6366f1?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/CV-Building-8b5cf6?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/NLP-Next-f59e0b?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/LLMs-Locked-555555?style=flat-square&labelColor=0d0d0d)
 
-![](https://img.shields.io/badge/Phase-Deep%20Learning-6366f1?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Focus-Computer%20Vision-8b5cf6?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Next-NLP%20%2F%20Transformers-ec4899?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Goal-LLMs%20%2F%20AI%20Systems-f59e0b?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Status-Open%20to%20Collabs-10b981?style=flat-square&labelColor=1a1a2e)
+<br/>
+
+**At a glance**
+<br/>
+
+| | |
+|---|---|
+| Projects Shipped | **5** |
+| Models Built | **CNN · ANN · SVM** |
+| Current Focus | **Computer Vision** |
+| Open To | **Collaborations** |
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -225,6 +250,21 @@ NLP foundations, Transformer architecture, BERT fine-tuning, and eventually buil
 
 ---
 
+### Highlights
+
+<div align="center">
+
+![](https://img.shields.io/badge/Projects%20Shipped-5-6366f1?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/ML%20Phase-Complete-10b981?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/Deep%20Learning-Active-ec4899?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/Sensor%20Fusion-Kalman%20Filter-8b5cf6?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/Models%20Built-CNN%20%7C%20ANN%20%7C%20SVM-f59e0b?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/Approach-First%20Principles-6366f1?style=for-the-badge&labelColor=0d0d0d)
+
+</div>
+
+---
+
 ### Stats
 
 <div align="center">
@@ -241,16 +281,6 @@ NLP foundations, Transformer architecture, BERT fine-tuning, and eventually buil
 
 ---
 
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prempatel-ai&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=6&column=7" width="100%"/>
-
-</div>
-
----
-
 ### Activity
 
 <div align="center">
@@ -262,7 +292,6 @@ NLP foundations, Transformer architecture, BERT fine-tuning, and eventually buil
 ---
 
 ### Contribution Snake
-
 
 <div align="center">
 
@@ -291,41 +320,3 @@ NLP foundations, Transformer architecture, BERT fine-tuning, and eventually buil
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,25:f59e0b,50:ec4899,75:8b5cf6,100:6366f1&height=140&section=footer&reversal=true" width="100%"/>
 
 </div>
-
-<!--
-═══════════════════════════════════════════════════════════
-  SNAKE ANIMATION — ONE-TIME SETUP (fixes the broken snake)
-═══════════════════════════════════════════════════════════
-
-STEP 1 — In your prempatel-ai repo, create this file:
-         .github/workflows/snake.yml
-
-STEP 2 — Paste this exact content into snake.yml:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: prempatel-ai
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-STEP 3 — Go to Actions tab → click "Generate Snake" → Run workflow
-STEP 4 — Done. Snake renders automatically every day after that.
-
-═══════════════════════════════════════════════════════════
--->
