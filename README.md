@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0221,50:0a0a2e,75:0d0221,100:000000&height=260&text=PREM%20PATEL&fontSize=82&fontColor=00f5ff&fontAlignY=45&desc=COMPUTER%20ENGINEERING%20%20///%20%20DEEP%20LEARNING%20%20///%20%20COMPUTER%20VISION&descAlignY=66&descSize=12&animation=fadeIn&stroke=ff00ff&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:8b5cf6,50:ec4899,75:f59e0b,100:10b981&height=250&text=PREM%20PATEL&fontSize=75&fontColor=ffffff&fontAlignY=42&desc=Computer%20Engineering%20%20%C2%B7%20%20Deep%20Learning%20%20%C2%B7%20%20Computer%20Vision&descAlignY=64&descSize=15&animation=fadeIn&fontAlign=50&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+BOOT+%5D+...+INITIALIZING+PREM_PATEL.exe;%5B+LOCATION+%5D+Gujarat%2C+India+%2F%2F+B.E.+Computer+Engineering+Yr.3;%5B+CURRENT+DIRECTIVE+%5D+Deep+Learning+%2F%2F+CNNs+%2F%2F+Computer+Vision;%5B+NEXT+TARGET+%5D+NLP+%2F+Transformers+%2F+LLM+Systems;%5B+PHILOSOPHY+%5D+Don't+just+use+the+model.+Understand+it.)](https://github.com/prempatel-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=ML+Complete.+Deep+Learning+Active.+LLMs+on+the+horizon.;Building+intelligent+systems+from+first+principles.;3rd+Year+Computer+Engineering+%E2%80%94+Gujarat%2C+India.;Turning+raw+sensor+data+into+insight+since+day+one.)](https://github.com/prempatel-ai)
 
 <br/>
 
-![](https://img.shields.io/badge/NEURAL__NET-ONLINE-000000?style=flat-square&labelColor=000000&color=00f5ff&logo=tensorflow&logoColor=00f5ff)
-![](https://img.shields.io/badge/SYSTEM-ACTIVE-000000?style=flat-square&labelColor=000000&color=ff00ff)
-![](https://img.shields.io/badge/CLEARANCE-OPEN__SOURCE-000000?style=flat-square&labelColor=000000&color=00f5ff)
-[![LinkedIn](https://img.shields.io/badge/NETWORK-LinkedIn-000000?style=flat-square&labelColor=000000&color=ff00ff&logo=linkedin&logoColor=ff00ff)](https://www.linkedin.com/in/prem-patel-ai/)
-[![Views](https://komarev.com/ghpvc/?username=prempatel-ai&style=flat-square&color=00f5ff&labelColor=000000&label=UPLINK+COUNT)](https://github.com/prempatel-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prem--patel--ai-6366f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366f1)](https://www.linkedin.com/in/prem-patel-ai/)
+[![GitHub](https://img.shields.io/badge/GitHub-prempatel--ai-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=8b5cf6)](https://github.com/prempatel-ai)
+[![Views](https://komarev.com/ghpvc/?username=prempatel-ai&style=for-the-badge&color=ec4899&labelColor=ec4899&label=Profile+Views)](https://github.com/prempatel-ai)
 
 </div>
 
@@ -22,53 +20,43 @@
 
 ---
 
-<img align="right" width="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eDNzbHZsanYzbXlhYXA3OWh5aXBoN21oNmxjMmJva2NhZWQwbSZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eDNzbHZsanYzbXlhYXA3OWh5aXBoN21oNmxjMmJva2NhZWQwbSZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```
-///  SUBJECT FILE  ///  CLASSIFICATION: PUBLIC  ///
-```
+### About
 
-```yaml
-# ─────────────────────────────────────────────────
-#  AGENT : PREM_PATEL
-#  BUILD : 2025.3 // YEAR 3 OF 4
-# ─────────────────────────────────────────────────
+```python
+class PremPatel:
 
-identity:
-  name      : "Prem Patel"
-  location  : "Gujarat, India"
-  degree    : "B.E. Computer Engineering — Year 3"
+    name       = "Prem Patel"
+    location   = "Gujarat, India"
+    degree     = "B.E. Computer Engineering — Year 3"
 
-directives:
-  active  : [ "Deep Learning", "CNNs", "Computer Vision" ]
-  queued  : [ "NLP", "Transformers", "LLMs", "RAG" ]
+    active     = ["Deep Learning", "CNNs", "Computer Vision"]
+    next       = ["NLP", "Transformers", "LLMs", "RAG Systems"]
 
-current_op : "Face Mask Detector — CNN + OpenCV inference"
+    building   = "Face Mask Detector — CNN + OpenCV"
+    shipped    = [
+        "GPS + IMU Fusion",
+        "Activity Recognition",
+        "Perceptron from Scratch",
+        "MNIST Classifier",
+        "Fashion CNN"
+    ]
 
-legacy_ops : 
-  - "GPS + IMU Sensor Fusion"
-  - "Human Activity Recognition"
-  - "Perceptron from Scratch"
-  - "MNIST Digit Classifier"
-  - "Fashion Item Classifier"
+    fact = """
+        Built a perceptron from raw mathematics
+        before touching a single framework.
+    """
 
-anomaly_log : >
-  Constructed a working perceptron from raw
-  mathematics before writing a single line
-  of framework code. Intentional.
-
-core_axiom : "Don't just use the model. Understand it."
-
-# ─────────────────────────────────────────────────
+    def principle(self):
+        return "Don't just use the model. Understand it."
 ```
 
 <br clear="right"/>
 
 ---
 
-```
-///  ARSENAL SCAN  ///  ALL MODULES VERIFIED  ///
-```
+### Stack
 
 <div align="center">
 
@@ -76,11 +64,11 @@ core_axiom : "Don't just use the model. Understand it."
 
 <br/>
 
-![Keras](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=00f5ff)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=00f5ff)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=ff00ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=ff00ff)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square&logo=python&logoColor=00f5ff)
+![Keras](https://img.shields.io/badge/Keras-6366f1?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8b5cf6?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ec4899?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-f59e0b?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-10b981?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -88,21 +76,111 @@ core_axiom : "Don't just use the model. Understand it."
 
 ---
 
-```
-///  MISSION LOG  ///  SORTED BY COMPLETION STATUS  ///
-```
+### Projects
 
 <div align="center">
 
-| PRIORITY | OPERATION | OBJECTIVE | TECH | STATUS |
-|:--------:|-----------|-----------|------|:------:|
-| `[01]` | [**GPS + IMU Sensor Fusion**](https://github.com/prempatel-ai/gps-imu-fusion) | Kalman Filter fusing GPS and IMU signals into a smooth, continuous trajectory | Python · NumPy | `COMPLETE` |
-| `[02]` | [**Human Activity Recognition**](https://github.com/prempatel-ai/human-activity-recognition-imu) | Motion classification (walk / run / sit) from raw accelerometer + gyro data | Scikit-learn · Pandas | `COMPLETE` |
-| `[03]` | [**Perceptron from Scratch**](https://github.com/prempatel-ai/perceptron) | Single neuron built from pure mathematics — no framework, no abstraction | Python · NumPy | `COMPLETE` |
-| `[04]` | **MNIST Digit Classifier** | CNN reading handwritten digits — the first deep learning deployment | TensorFlow · Keras | `COMPLETE` |
-| `[05]` | **Fashion Item Classifier** | Multi-class CNN identifying clothing categories from raw image input | TensorFlow · Keras · OpenCV | `COMPLETE` |
-| `[06]` | **Face Mask Detector** | Real-time mask detection on live webcam feed via CNN inference pipeline | TensorFlow · OpenCV | `ACTIVE` |
-| `[07]` | **Dog vs Cat Classifier** | Binary image classification — the definitive computer vision benchmark | TensorFlow · Keras | `QUEUED` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[GPS + IMU Sensor Fusion](https://github.com/prempatel-ai/gps-imu-fusion)**
+
+Kalman Filter fusing GPS and IMU sensor data into a smooth, continuous real-world trajectory estimate.
+
+![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logoColor=white&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-8b5cf6?style=flat-square&logo=numpy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Shipped-10b981?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Human Activity Recognition](https://github.com/prempatel-ai/human-activity-recognition-imu)**
+
+Motion classification from raw accelerometer and gyroscope signals — walk, run, sit, identified precisely.
+
+![Sklearn](https://img.shields.io/badge/Scikit--learn-ec4899?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-f59e0b?style=flat-square&logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Shipped-10b981?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[Perceptron from Scratch](https://github.com/prempatel-ai/perceptron)**
+
+A single neuron — built from pure mathematics. No framework, no abstraction, no shortcuts. Just math.
+
+![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8b5cf6?style=flat-square&logo=numpy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Shipped-10b981?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**MNIST Digit Classifier**
+
+CNN that reads handwritten digits at high accuracy — the first deep learning model deployed from scratch.
+
+![TF](https://img.shields.io/badge/TensorFlow-ec4899?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-f59e0b?style=flat-square&logo=keras&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Shipped-10b981?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**Fashion Item Classifier**
+
+Multi-class CNN identifying clothing categories from raw image input — trained on Fashion-MNIST dataset.
+
+![TF](https://img.shields.io/badge/TensorFlow-6366f1?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-8b5cf6?style=flat-square&logo=opencv&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Shipped-10b981?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**Face Mask Detector**
+
+Real-time mask detection on live webcam feed using a CNN inference pipeline built with OpenCV.
+
+![TF](https://img.shields.io/badge/TensorFlow-ec4899?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-f59e0b?style=flat-square&logo=opencv&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-6366f1?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**Dog vs Cat Classifier**
+
+Binary image classification — the definitive computer vision benchmark. Up next after mask detection.
+
+![TF](https://img.shields.io/badge/TensorFlow-6366f1?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-8b5cf6?style=flat-square&logo=keras&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Queued-f59e0b?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**What's Next**
+
+NLP foundations, Transformer architecture from scratch, BERT fine-tuning, and eventually building with LLMs.
+
+![NLP](https://img.shields.io/badge/NLP-ec4899?style=flat-square&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-f59e0b?style=flat-square&logo=huggingface&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Locked-555555?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -110,57 +188,36 @@ core_axiom : "Don't just use the model. Understand it."
 
 ---
 
-```
-///  UPGRADE PATH  ///  LOADING TRAJECTORY DATA  ///
-```
+### Roadmap
 
-```
- ┌─────────────────────────────────────────────────────────────────────┐
- │                                                                     │
- │   PHASE 01 // ML FUNDAMENTALS                    [COMPLETE]         │
- │   ████████████████████████████████████████████   100%              │
- │   Regression · SVM · Trees · Clustering · Pipelines                │
- │                                                                     │
- │   PHASE 02 // DEEP LEARNING                      [ACTIVE]          │
- │   ██████████████████████████████░░░░░░░░░░░░░░    80%              │
- │   ANNs · CNNs · Backpropagation · Transfer Learning                │
- │                                                                     │
- │   PHASE 03 // COMPUTER VISION                    [IN PROGRESS]     │
- │   █████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░    40%              │
- │   OpenCV · Object Detection · Face Recognition                     │
- │                                                                     │
- │   PHASE 04 // NLP & TRANSFORMERS                 [LOCKED]          │
- │   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0%              │
- │   Tokenization · Attention · BERT · Fine-tuning                    │
- │                                                                     │
- │   PHASE 05 // LLMs & GENERATIVE AI               [LOCKED]          │
- │   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0%              │
- │   Prompt Engineering · RAG · Agent Systems                         │
- │                                                                     │
- │   PHASE 06 // MLOps & DEPLOYMENT                 [LOCKED]          │
- │   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0%              │
- │   FastAPI · Docker · CI/CD · Model Serving                         │
- │                                                                     │
- └─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Phase | Domain | Topics | Progress | Status |
+|:-----:|--------|--------|:--------:|:------:|
+| 01 | **ML Fundamentals** | Regression · SVM · Trees · Clustering · Pipelines | `████████████ 100%` | ![](https://img.shields.io/badge/-Complete-10b981?style=flat-square) |
+| 02 | **Deep Learning** | ANNs · CNNs · Backprop · Transfer Learning | `█████████░░░  80%` | ![](https://img.shields.io/badge/-Active-6366f1?style=flat-square) |
+| 03 | **Computer Vision** | OpenCV · Detection · Face Recognition | `█████░░░░░░░  40%` | ![](https://img.shields.io/badge/-In%20Progress-8b5cf6?style=flat-square) |
+| 04 | **NLP & Transformers** | Tokenization · Attention · BERT · Fine-tuning | `░░░░░░░░░░░░   0%` | ![](https://img.shields.io/badge/-Upcoming-f59e0b?style=flat-square) |
+| 05 | **LLMs & Gen AI** | Prompt Eng · RAG · Agent Systems | `░░░░░░░░░░░░   0%` | ![](https://img.shields.io/badge/-Upcoming-f59e0b?style=flat-square) |
+| 06 | **MLOps** | FastAPI · Docker · CI/CD · Model Serving | `░░░░░░░░░░░░   0%` | ![](https://img.shields.io/badge/-Future-555555?style=flat-square) |
+
+</div>
 
 <br/>
 
 ---
 
-```
-///  SYSTEM METRICS  ///  LIVE UPLINK  ///
-```
+### Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prempatel-ai&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00f5ff&icon_color=ff00ff&text_color=aaaacc&rank_icon=percentile&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prempatel-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=ec4899&text_color=aaaacc&rank_icon=percentile&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prempatel-ai&layout=donut&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00f5ff&text_color=aaaacc&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prempatel-ai&layout=donut&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6366f1&text_color=aaaacc&langs_count=6" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=prempatel-ai&theme=midnight-purple&hide_border=true&background=000000&stroke=00f5ff&ring=ff00ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=666688&dates=334&currStreakNum=ffffff&sideNums=ffffff" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=prempatel-ai&theme=radical&hide_border=true&background=0d0d0d&stroke=6366f1&ring=ec4899&fire=f59e0b&currStreakLabel=6366f1&sideLabels=666688&dates=444455&currStreakNum=ffffff&sideNums=ffffff" width="65%"/>
 
 </div>
 
@@ -168,13 +225,11 @@ core_axiom : "Don't just use the model. Understand it."
 
 ---
 
-```
-///  TROPHY VAULT  ///  ACHIEVEMENTS UNLOCKED  ///
-```
+### Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prempatel-ai&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prempatel-ai&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=6&column=7" width="100%"/>
 
 </div>
 
@@ -182,13 +237,11 @@ core_axiom : "Don't just use the model. Understand it."
 
 ---
 
-```
-///  COMMIT HEATMAP  ///  SCANNING ACTIVITY  ///
-```
+### Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prempatel-ai&bg_color=000000&color=00f5ff&line=ff00ff&point=ffffff&area_color=0d0221&area=true&hide_border=true&custom_title=NEURAL%20COMMIT%20ACTIVITY" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prempatel-ai&bg_color=0d0d0d&color=6366f1&line=ec4899&point=f59e0b&area_color=1a1a2e&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
@@ -196,9 +249,7 @@ core_axiom : "Don't just use the model. Understand it."
 
 ---
 
-```
-///  CONTRIBUTION GRID  ///  RENDERING SNAKE PROTOCOL  ///
-```
+### Contribution Snake
 
 <div align="center">
 
@@ -214,31 +265,19 @@ core_axiom : "Don't just use the model. Understand it."
 
 ---
 
-```
-///  TRANSMISSION END  ///
-```
-
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   "Don't just use the model. Understand it."                     ║
- ║                                                                  ║
- ║   B.E. Computer Engineering, Year 3  //  Gujarat, India         ║
- ║   Open to collaborations, research, and hard problems.          ║
- ║                                                                  ║
- ║   UPLINK  >>  linkedin.com/in/prem-patel-ai                     ║
- ║   SOURCE  >>  github.com/prempatel-ai                           ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/%5B%20ESTABLISH%20CONNECTION%20%5D-000000?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=000000)](https://www.linkedin.com/in/prem-patel-ai/)
+### `"Don't just use the model. Understand it."`
+
+<sub>B.E. Computer Engineering, Year 3 &nbsp;&nbsp;·&nbsp;&nbsp; Gujarat, India &nbsp;&nbsp;·&nbsp;&nbsp; Open to collaborations and interesting problems</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d0221,100:000000&height=120&section=footer&reversal=true&stroke=ff00ff&strokeWidth=1" width="100%"/>
+[![Connect](https://img.shields.io/badge/Connect%20on%20LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-patel-ai/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,25:f59e0b,50:ec4899,75:8b5cf6,100:6366f1&height=140&section=footer&reversal=true" width="100%"/>
 
 </div>
 
