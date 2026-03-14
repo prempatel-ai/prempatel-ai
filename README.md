@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=ML+Complete.+Deep+Learning+Active.+LLMs+on+the+horizon.;Building+intelligent+systems+from+first+principles.;3rd+Year+Computer+Engineering+%E2%80%94+Gujarat%2C+India.;Turning+raw+sensor+data+into+insight+since+day+one.)](https://github.com/prempatel-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=ML+Complete.+Deep+Learning+Active.+LLMs+on+the+horizon.;Building+intelligent+systems+from+first+principles.;3rd+Year+B.Tech+Computer+Engineering+%E2%80%94+Gujarat%2C+India.;Turning+raw+sensor+data+into+insight+since+day+one.)](https://github.com/prempatel-ai)
 
 <br/>
 
@@ -20,39 +20,66 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eDNzbHZsanYzbXlhYXA3OWh5aXBoN21oNmxjMmJva2NhZWQwbSZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ### About
 
+<img align="right" width="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eDNzbHZsanYzbXlhYXA3OWh5aXBoN21oNmxjMmJva2NhZWQwbSZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ```python
+# ─────────────────────────────────────────────────────────
+#  PREM PATEL  //  Computer Engineer & AI Builder
+#  Gujarat, India  //  B.Tech CE Year 3 of 4
+# ─────────────────────────────────────────────────────────
+
 class PremPatel:
 
-    name       = "Prem Patel"
-    location   = "Gujarat, India"
-    degree     = "B.E. Computer Engineering — Year 3"
+    degree   = "B.Tech Computer Engineering — Year 3"
+    location = "Gujarat, India"
+    linkedin = "linkedin.com/in/prem-patel-ai"
 
-    active     = ["Deep Learning", "CNNs", "Computer Vision"]
-    next       = ["NLP", "Transformers", "LLMs", "RAG Systems"]
+    # What I am working on right now
+    active   = ["Deep Learning", "CNNs", "Computer Vision"]
 
-    building   = "Face Mask Detector — CNN + OpenCV"
-    shipped    = [
-        "GPS + IMU Fusion",
-        "Activity Recognition",
-        "Perceptron from Scratch",
-        "MNIST Classifier",
-        "Fashion CNN"
+    # Where I am headed
+    next     = ["NLP", "Transformers", "LLMs", "RAG Systems"]
+
+    # What I have shipped
+    shipped  = [
+        "GPS + IMU Sensor Fusion   — Kalman Filter",
+        "Human Activity Recognition — Scikit-learn",
+        "Perceptron from Scratch   — Pure Math",
+        "MNIST Digit Classifier    — CNN",
+        "Fashion Item Classifier   — CNN + OpenCV",
     ]
 
-    fact = """
-        Built a perceptron from raw mathematics
-        before touching a single framework.
+    # Currently in the lab
+    building = "Face Mask Detector — CNN + real-time OpenCV"
+
+    # The one thing that defines how I learn
+    approach = """
+        I built a perceptron from raw mathematics
+        before writing a single line of framework code.
+        I don't use tools I don't understand.
     """
 
-    def principle(self):
+    def principle(self) -> str:
         return "Don't just use the model. Understand it."
+
+# ─────────────────────────────────────────────────────────
 ```
 
 <br clear="right"/>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Phase-Deep%20Learning-6366f1?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Focus-Computer%20Vision-8b5cf6?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Next-NLP%20%2F%20Transformers-ec4899?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Goal-LLMs%20%2F%20AI%20Systems-f59e0b?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Status-Open%20to%20Collabs-10b981?style=flat-square&labelColor=1a1a2e)
+
+</div>
 
 ---
 
@@ -72,8 +99,6 @@ class PremPatel:
 
 </div>
 
-<br/>
-
 ---
 
 ### Projects
@@ -88,7 +113,7 @@ class PremPatel:
 
 Kalman Filter fusing GPS and IMU sensor data into a smooth, continuous real-world trajectory estimate.
 
-![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logoColor=white&logo=python)
+![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-8b5cf6?style=flat-square&logo=numpy&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Shipped-10b981?style=flat-square)
 
@@ -105,13 +130,12 @@ Motion classification from raw accelerometer and gyroscope signals — walk, run
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 **[Perceptron from Scratch](https://github.com/prempatel-ai/perceptron)**
 
-A single neuron — built from pure mathematics. No framework, no abstraction, no shortcuts. Just math.
+A single neuron built from pure mathematics. No framework, no abstraction, no shortcuts. Just math.
 
 ![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-8b5cf6?style=flat-square&logo=numpy&logoColor=white)
@@ -122,7 +146,7 @@ A single neuron — built from pure mathematics. No framework, no abstraction, n
 
 **MNIST Digit Classifier**
 
-CNN that reads handwritten digits at high accuracy — the first deep learning model deployed from scratch.
+CNN reading handwritten digits at high accuracy — the first deep learning model built and deployed.
 
 ![TF](https://img.shields.io/badge/TensorFlow-ec4899?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-f59e0b?style=flat-square&logo=keras&logoColor=white)
@@ -130,13 +154,12 @@ CNN that reads handwritten digits at high accuracy — the first deep learning m
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 **Fashion Item Classifier**
 
-Multi-class CNN identifying clothing categories from raw image input — trained on Fashion-MNIST dataset.
+Multi-class CNN identifying clothing categories from raw image input — trained on Fashion-MNIST.
 
 ![TF](https://img.shields.io/badge/TensorFlow-6366f1?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-8b5cf6?style=flat-square&logo=opencv&logoColor=white)
@@ -155,7 +178,6 @@ Real-time mask detection on live webcam feed using a CNN inference pipeline buil
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -172,7 +194,7 @@ Binary image classification — the definitive computer vision benchmark. Up nex
 
 **What's Next**
 
-NLP foundations, Transformer architecture from scratch, BERT fine-tuning, and eventually building with LLMs.
+NLP foundations, Transformer architecture, BERT fine-tuning, and eventually building with LLMs and RAG.
 
 ![NLP](https://img.shields.io/badge/NLP-ec4899?style=flat-square&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-f59e0b?style=flat-square&logo=huggingface&logoColor=white)
@@ -183,8 +205,6 @@ NLP foundations, Transformer architecture from scratch, BERT fine-tuning, and ev
 </table>
 
 </div>
-
-<br/>
 
 ---
 
@@ -203,8 +223,6 @@ NLP foundations, Transformer architecture from scratch, BERT fine-tuning, and ev
 
 </div>
 
-<br/>
-
 ---
 
 ### Stats
@@ -221,19 +239,15 @@ NLP foundations, Transformer architecture from scratch, BERT fine-tuning, and ev
 
 </div>
 
-<br/>
-
 ---
 
 ### Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prempatel-ai&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prempatel-ai&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=6&column=7" width="100%"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -245,11 +259,11 @@ NLP foundations, Transformer architecture from scratch, BERT fine-tuning, and ev
 
 </div>
 
-<br/>
-
 ---
 
 ### Contribution Snake
+
+> **One-time setup required** — create `.github/workflows/snake.yml` in this repo using the config in the comments at the bottom of this file, then run the action once manually from the Actions tab. The snake will appear after the first run.
 
 <div align="center">
 
@@ -261,15 +275,13 @@ NLP foundations, Transformer architecture from scratch, BERT fine-tuning, and ev
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
 ### `"Don't just use the model. Understand it."`
 
-<sub>B.E. Computer Engineering, Year 3 &nbsp;&nbsp;·&nbsp;&nbsp; Gujarat, India &nbsp;&nbsp;·&nbsp;&nbsp; Open to collaborations and interesting problems</sub>
+<sub>B.Tech Computer Engineering, Year 3 &nbsp;&nbsp;·&nbsp;&nbsp; Gujarat, India &nbsp;&nbsp;·&nbsp;&nbsp; Open to collaborations and interesting problems</sub>
 
 <br/>
 
@@ -282,29 +294,39 @@ NLP foundations, Transformer architecture from scratch, BERT fine-tuning, and ev
 </div>
 
 <!--
-  SNAKE ANIMATION — ONE-TIME SETUP
-  ==================================
-  Create: .github/workflows/snake.yml
+═══════════════════════════════════════════════════════════
+  SNAKE ANIMATION — ONE-TIME SETUP (fixes the broken snake)
+═══════════════════════════════════════════════════════════
 
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: prempatel-ai
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+STEP 1 — In your prempatel-ai repo, create this file:
+         .github/workflows/snake.yml
+
+STEP 2 — Paste this exact content into snake.yml:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: prempatel-ai
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+STEP 3 — Go to Actions tab → click "Generate Snake" → Run workflow
+STEP 4 — Done. Snake renders automatically every day after that.
+
+═══════════════════════════════════════════════════════════
 -->
