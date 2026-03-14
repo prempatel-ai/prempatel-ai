@@ -44,8 +44,8 @@ class PremPatel:
 
     # What I have shipped
     shipped  = [
-        "GPS + IMU Sensor Fusion   — Kalman Filter",
-        "Human Activity Recognition — Scikit-learn",
+        "GPS + IMU Sensor Fusion   — Kalman Filter + LSTM",
+        "Human Activity Recognition — CNN-LSTM + Attention",
         "Perceptron from Scratch   — Pure Math",
         "MNIST Digit Classifier    — CNN",
         "Fashion Item Classifier   — CNN + OpenCV",
@@ -263,7 +263,6 @@ NLP foundations, Transformer architecture, BERT fine-tuning, and eventually buil
 
 ### Contribution Snake
 
-> **One-time setup required** — create `.github/workflows/snake.yml` in this repo using the config in the comments at the bottom of this file, then run the action once manually from the Actions tab. The snake will appear after the first run.
 
 <div align="center">
 
