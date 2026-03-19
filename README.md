@@ -169,7 +169,7 @@ A single neuron built from pure mathematics. No framework, no abstraction, no sh
 </td>
 <td width="50%" valign="top">
 
-**MNIST Digit Classifier**
+**[MNIST Digit Classifier](https://github.com/prempatel-ai/deeplearning.git)**
 
 CNN reading handwritten digits at high accuracy — the first deep learning model built and deployed.
 
@@ -182,7 +182,7 @@ CNN reading handwritten digits at high accuracy — the first deep learning mode
 <tr>
 <td width="50%" valign="top">
 
-**Fashion Item Classifier**
+**[Fashion Item Classifier](https://github.com/prempatel-ai/deeplearning.git)**
 
 Multi-class CNN identifying clothing categories from raw image input — trained on Fashion-MNIST.
 
@@ -206,7 +206,7 @@ Real-time mask detection on live webcam feed using a CNN inference pipeline buil
 <tr>
 <td width="50%" valign="top">
 
-**Dog vs Cat Classifier**
+**[Dog vs Cat Classifier](https://github.com/prempatel-ai/deeplearning.git)**
 
 Binary image classification — the definitive computer vision benchmark. Up next after mask detection.
 
